@@ -1,0 +1,49 @@
+.home-container{
+    min-height: 100vh;
+    background-color:#e8f5e9   ;
+     background-size: cover;
+    background-position: center;
+   width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 150px; 
+   
+
+}
+
+.addbtn{
+    background-color: orange;
+    color: white;
+    height: 40px;
+    font-size: 12px;
+    width: 100px;
+    
+    
+}
+
+.inputaddtodo{
+    height: 33px;
+    width: 235px;
+    border-radius: 5px;
+    border: 0px solid white;
+    margin-top: 3px;
+}
+.input2-container{
+    display: flex;
+    gap: 10px;
+}
+
+
+    .ul-list {
+        display: flex;
+        flex-wrap: wrap; /* Allows wrapping to the next line */
+        gap: 16px; /* Space between todo boxes */
+        list-style-type: none;
+        padding: 0;
+        margin-top: 20px;
+        justify-content: flex-start; /* Start from left */
+      }
+  
+   
+

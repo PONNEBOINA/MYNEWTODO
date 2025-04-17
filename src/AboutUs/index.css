@@ -1,0 +1,18 @@
+.aboutus{
+    
+   margin-top: 27px;
+    padding: 30px;
+    background-color: #e8f5e9;
+    color: black;
+    height: 100%;
+    background-size: cover;
+
+    
+}
+.paragraph{
+    width: 85%;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+    
+}

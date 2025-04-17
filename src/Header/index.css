@@ -1,0 +1,53 @@
+.navbar{
+     position: fixed; 
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+    background-color: gray;
+    
+
+}
+
+.buton{
+    margin-right: 40px;
+}
+
+.buton:hover{
+    margin-right: 40px;
+    background-color: red;
+}
+.homelink{
+    color: white;
+    margin-right: 24px;
+    margin-top: 10px;
+   
+
+}
+
+.aboutlink{
+    color: white;
+    margin-right: 24px;
+    margin-top: 10px;
+   
+}
+
+.links{
+    display: flex;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  
+  .homelinktodo{
+    margin-top: 10px;
+  }
