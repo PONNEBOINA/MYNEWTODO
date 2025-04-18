@@ -16,7 +16,7 @@ const SignUp = () => {
 
     const formData = { email, username, password };
 
-    const api = "http://localhost:5000/api/register"; 
+    const api = "https://mytodo-backend-69lo.onrender.com/api/register"; 
 
     try {
       const response = await fetch(api, {
